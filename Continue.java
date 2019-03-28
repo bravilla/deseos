@@ -16,8 +16,6 @@ public class Continue {
                 continue;
             }
             
-            System.out.println("La cuenta es: " + cuenta);
-            System.out.println("Impresion después del valor");
             
         }
         
